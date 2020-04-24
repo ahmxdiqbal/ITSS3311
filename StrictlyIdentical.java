@@ -5,7 +5,7 @@
 // Two lists are strictly identical
 
 // GitHub link
-// https://github.com/xpulsor/ITSS3311/blob/master/StrictlyIdentical.java
+// https://github.com/xpulsor/ITSS3311
 
 
 package assingments;
