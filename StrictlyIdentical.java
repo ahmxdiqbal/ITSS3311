@@ -4,6 +4,8 @@
 // Enter 5 elements of list2: 1 2 3 4 5
 // Two lists are strictly identical
 
+// GitHub link
+// https://github.com/xpulsor/ITSS3311/blob/master/StrictlyIdentical.java
 
 
 package assingments;
